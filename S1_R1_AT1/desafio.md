@@ -1,4 +1,4 @@
-# Desafio Profissional: 
+# Desafio Profissional:
 
 A melhor forma é criar **classes separadas** para Clientes e Funcionários, utilizando a Herança. 
 
